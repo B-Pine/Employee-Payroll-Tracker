@@ -116,7 +116,7 @@ If Poetry is installed correctly, the command should display the installed Poetr
 Clone the project from GitHub:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/B-Pine/Employee-Payroll-Tracker
 ```
 
 Move into the project directory:
