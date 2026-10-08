@@ -491,3 +491,8 @@ Net Salary = 495,000 RWF
 ### Debugging Demonstration
 
 ![VS Code debugger showing payroll variables](docs/images/debugger_view.png)
+
+## AI Usage
+
+I intentionally used ChatGPT rather than Claude Code for this small project, using AI as a learning and review assistant so I could understand each part before adding it to the codebase. This approach helped me ensure that I can explain and defend every line of the implementation rather than having an agent generate the entire project at once.
+
